@@ -1,7 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+}
 .App {
   text-align: center;
+  height: 100%;
+  width: 100%;
 }
-
+.title{
+  color: #217ebe;
+  font-weight: 300;
+  rotate: 15deg;
+  font-style: italic;
+}
+.title_name{
+  color: #5b071d;
+  font-size: 40px;
+  font-weight: 900;
+  rotate: 15deg;
+}
+.title_3{
+  color: #d29f10;
+  font-size: 15px;
+  font-weight: 500;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
